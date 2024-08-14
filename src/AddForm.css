@@ -1,0 +1,17 @@
+#addForm {
+    width: 85vw;
+  }
+  
+  @media screen and (min-width: 992px) {
+    #addForm {
+        width: 35vw;
+    }
+  }
+
+.content-movie{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
